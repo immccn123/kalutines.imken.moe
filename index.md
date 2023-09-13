@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Kalutines"
-  text: "新一代洋葱学园作业完成工具"
+  text: "新一代洋葱学园作业完成工具，不知道是不是史上最强大"
   tagline: "安卓软件。网好的时候挺快"
   image:
     src: /logo.webp
