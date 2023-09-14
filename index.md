@@ -22,8 +22,8 @@ features:
     details: 软件打包后近 ~15 MB，安装后 ~30 MB，不知道咋优化，，
   - title: 常麻烦的账号密码输入
     details: 懒得做记住密码了www
-  - title: 非常差劲的虚拟形象
-    details: 感觉不如原神；关注永雏塔菲谢谢喵
+  - title: 没有备案
+    details: 违法软件不要下载！
   - title: Project Owner 可爱捏
     details: 什么自恋
 ---
